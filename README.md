@@ -1,1 +1,1 @@
-MANOJ PATIL C lab sectiom: CB
+MANOJ PATIL C-lab section: CB branch COMPUTER SCIENCE
